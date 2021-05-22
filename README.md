@@ -1,5 +1,7 @@
 # blueprintjs  
 
+Simplesmente a melhor Component library 
+
 ```sh
 yarn add @blueprintjs/core
 ```
