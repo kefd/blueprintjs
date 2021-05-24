@@ -1,6 +1,6 @@
 # blueprintjs  
 
-Simplesmente a melhor Component library 
+Quase a melhor component library
 
 ```sh
 yarn add @blueprintjs/core
@@ -25,3 +25,7 @@ import 'normalize.css/normalize.css';
 import '@blueprintjs/icons/lib/css/blueprint-icons.css';  
 import '@blueprintjs/core/lib/css/blueprint.css';
 ```
+
+using **react-grid-layout** to do grid because blueprint dont have a self grid system...  
+
+`yarn add react-grid-layout`  
